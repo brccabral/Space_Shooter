@@ -31,3 +31,6 @@ ExportedObj/
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
+# Android Files
+.apk
+Builds/Space_Shooter_Android/*.*
