@@ -54,3 +54,7 @@ For any questions contact me at jawad@jawadrashid.com or just drop a comment in
 ![Start Game Screenshot](/Screenshots/Start.png "Start Game Screenshot")
 *Start Game Screenshot*
 
+```markdown
+[[ http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | height = 100px ]]
+```
+
