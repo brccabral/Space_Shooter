@@ -1,12 +1,14 @@
 # Space Shooter
 
-# Introduction
+## Introduction
 
 Space Shooter is a top down Shoot'em up game where you control a space ship and you can move or shoot to dodge incoming rocks and enemy ships. You can  shoot rocks or enemy ships to score points. You can move anywhere on the screen to dodge or shoot where the obstacles/enemies drop from the top of the screen and go to the bottom of the screen. If a rock or enemy hits you it is game over. You can restart the game. There are Web GL version and android version of the game. 
 
 
 
-# Description
+## Description
+
+Read the blog post here http://www.jawadrashid.com/space-shooter-extended-mobile/
 
 Let me be clear that this is a tutorial for Unity game development which can be found at Unity here(https://unity3d.com/learn/tutorials/projects/space-shooter-tutorial). I followed the tutorial and created this game using the artwork provided by Unity. I don't know own the game idea or the artwork it is owned by Unity. The main aim for me to make this blog post is to show that i have learned Unity and i can do game development. This blog post is only there to showcase my skills. I am right now learning Unity and in the future i will share blog posts for my own games which i develop. 
 
@@ -22,7 +24,7 @@ If you are interested in the source code of the game then you can either use the
 
 For any questions contact me at jawad@jawadrashid.com or just drop a comment in this post. 
 
-# What I Learned
+## What I Learned
 
 * Setting up a new project in Unity.
 * Importing assets from Asset Store.
@@ -40,21 +42,62 @@ For any questions contact me at jawad@jawadrashid.com or just drop a comment in
 * Creating mobile version of the game using accelerator and touch/drag.
 * Building the app for Web GL for displaying in pages and building the game for Android/iOS. Also, testing the mobile game using Unity * Remote. 
 
-# Videos
+## Videos
 
-[![Space Shooter Extended Version](/Screenshots/Space Shooter Extended Great Effects.png)](https://youtu.be/eG-0DT-3fRs "Space Shooter Extended Version")
+[![Space Shooter Extended Version](/Screenshots/Space%20Shooter%20Extended%20Great%20Effects.png)](https://youtu.be/eG-0DT-3fRs "Space Shooter Extended Version")
 
-[![Space Shooter Android Version ](/Screenshots/Space Shooter Android Start.png)](https://youtu.be/DOgF7twX-Lg "Space Shooter Android Version")
+[![Space Shooter Android Version ](/Screenshots/Space%20Shooter%20Android%20Start.png)](https://youtu.be/DOgF7twX-Lg "Space Shooter Android Version")
 
-[![Space Shooter Normal Version](/Screenshots/Space Shooter Start.png)](https://youtu.be/tO3poFUfSnc "Roll A Ball Demo")
+[![Space Shooter Normal Version](/Screenshots/Space%20Shooter%20Extended%20Blow%20Up%20Explosion.png)](https://youtu.be/tO3poFUfSnc "Space Shooter Normal Version")
 
 
-# Screenshots
+## Screenshots
 
-![Start Game Screenshot](/Screenshots/Start.png "Start Game Screenshot")
-*Start Game Screenshot*
+### Extended Version
 
-```markdown
-[[ http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | height = 100px ]]
-```
+<img src="/Screenshots/Space Shooter Start.png" height="200">
+Space Shooter Splash Screen
 
+<img src="/Screenshots/Space Shooter Extended Start.png" height="200">
+Space Shooter Start Screen
+
+<img src="/Screenshots/Space Shooter Extended Great Effects.png" height="200">
+Space Shooter Extended Great Effects
+
+<img src="/Screenshots/Space Shooter Extended Blow Up Explosion.png" height="200">
+Space Shooter Extended Blow Up Explosion
+
+<img src="/Screenshots/Space Shooter Extended Rock Blow Up.png" height="200">
+Space Shooter Extended Rock Blow Up
+
+<img src="/Screenshots/Space Shooter Extended Close Call.png" height="200">
+Space Shooter Extended Close Call
+
+<img src="/Screenshots/Space Shooter Extended Multiple Enemies.png" height="200">
+Space Shooter Extended Multiple Enemies
+
+<img src="/Screenshots/Space Shooter Extended Tilting.png" height="200">
+Space Shooter Extended Tilting
+
+<img src="/Screenshots/Space Shooter Extended Game Over.png" height="200">
+Space Shooter Extended Game Over
+
+<img src="/Screenshots/Space Shooter Extended Game Over 2.png" height="200">
+Space Shooter Extended Game Over 2
+
+### Mobile Version
+
+<img src="/Screenshots/Space Shooter Android Start.png" height="200">
+Space Shooter Android Start
+
+<img src="/Screenshots/Space Shooter Android Movement & Firing.png" height="200">
+Space Shooter Android Movement & Firing
+
+<img src="/Screenshots/Space Shooter Android Multiple Enemies.png" height="200">
+Space Shooter Android Multiple Enemies
+
+<img src="/Screenshots/Space Shooter Android Player Blow Up.png" height="200">
+Space Shooter Android Player Blow Up
+
+<img src="/Screenshots/Space Shooter Android Game Over.png" height="200">
+Space Shooter Android Start
